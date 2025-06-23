@@ -14,6 +14,9 @@ Pruebas E2E
 
 ![image](https://github.com/user-attachments/assets/20d070bc-59d6-4d50-a61a-84ce9b95f9a5)
 
+![image](https://github.com/user-attachments/assets/8eb3331b-a64a-47e8-8859-e9ddb1f16400)
+
+
 ```python
 from selenium import webdriver
 from selenium.webdriver.common.by import By
